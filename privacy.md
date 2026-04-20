@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**GigNest -- Financial Wellness for Gig Workers**
+**Freelance Wallet -- Financial Wellness for Gig Workers**
 
 **Effective Date:** April 19, 2026
 **Last Updated:** April 19, 2026
@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-GigNest ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the GigNest mobile application and related services (collectively, the "Service"). It applies to all users worldwide and is designed to comply with the **General Data Protection Regulation (GDPR)**, the **California Consumer Privacy Act (CCPA) as amended by the CPRA**, and other applicable privacy laws.
+Freelance Wallet ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the Freelance Wallet mobile application and related services (collectively, the "Service"). It applies to all users worldwide and is designed to comply with the **General Data Protection Regulation (GDPR)**, the **California Consumer Privacy Act (CCPA) as amended by the CPRA**, and other applicable privacy laws.
 
 Please read this policy carefully. By using the Service, you acknowledge that you have read and understood these practices. If you do not agree, please discontinue use of the Service immediately.
 
@@ -61,7 +61,7 @@ We do **not** sell your personal information to third parties. We do not use you
 
 ## 4. Financial Data -- Special Protections
 
-Because GigNest processes sensitive financial information, we apply additional safeguards beyond standard privacy practices.
+Because Freelance Wallet processes sensitive financial information, we apply additional safeguards beyond standard privacy practices.
 
 All financial data (income figures, tax estimates, expense records) is encrypted at rest using AES-256 and in transit using TLS 1.3. Financial data is stored in isolated database tables with strict access controls -- only the authenticated user and authorized server-side processes can access their own records. We do not use your financial data to train AI models that are shared across users. AI Coach conversations are processed in real time and are not retained on our AI provider's servers beyond the immediate request. You may delete all your financial data at any time from the Settings screen, and deletion is permanent and irreversible within 30 days.
 
@@ -73,9 +73,9 @@ We share your information only in the following limited circumstances.
 
 **Service Providers.** We engage trusted third-party vendors to operate the Service, including cloud infrastructure providers (for hosting and database storage), RevenueCat (subscription management), Resend (transactional email delivery), and Sentry (crash monitoring). Each provider is bound by a data processing agreement and may only use your data to provide services to us.
 
-**Legal Requirements.** We may disclose your information if required by law, court order, or government authority, or if we believe disclosure is necessary to protect the rights, property, or safety of GigNest, our users, or the public.
+**Legal Requirements.** We may disclose your information if required by law, court order, or government authority, or if we believe disclosure is necessary to protect the rights, property, or safety of Freelance Wallet, our users, or the public.
 
-**Business Transfers.** If GigNest is acquired, merged, or undergoes a change of control, your information may be transferred as part of that transaction. We will notify you via email or in-app notice before your data becomes subject to a different privacy policy.
+**Business Transfers.** If Freelance Wallet is acquired, merged, or undergoes a change of control, your information may be transferred as part of that transaction. We will notify you via email or in-app notice before your data becomes subject to a different privacy policy.
 
 **With Your Consent.** We may share your information for any other purpose with your explicit prior consent.
 
@@ -123,7 +123,7 @@ The Service is not directed to children under the age of 13 (or 16 in the EEA). 
 
 ## 9. International Data Transfers
 
-GigNest is operated from the United States. If you are located outside the United States, your information may be transferred to and processed in the United States, which may have different data protection laws than your country. For transfers from the EEA or UK, we rely on Standard Contractual Clauses (SCCs) approved by the European Commission as the legal mechanism for transfer.
+Freelance Wallet is operated from the United States. If you are located outside the United States, your information may be transferred to and processed in the United States, which may have different data protection laws than your country. For transfers from the EEA or UK, we rely on Standard Contractual Clauses (SCCs) approved by the European Commission as the legal mechanism for transfer.
 
 ---
 
@@ -137,7 +137,7 @@ If we become aware of a data breach that affects your rights and freedoms, we wi
 
 ## 11. Cookies and Tracking Technologies
 
-The GigNest mobile app does not use browser cookies. We use AsyncStorage (local device storage) to persist your preferences and session state. We use anonymized analytics events to understand feature usage; these events do not contain personally identifiable information. You may opt out of analytics in the app Settings under Privacy.
+The Freelance Wallet mobile app does not use browser cookies. We use AsyncStorage (local device storage) to persist your preferences and session state. We use anonymized analytics events to understand feature usage; these events do not contain personally identifiable information. You may opt out of analytics in the app Settings under Privacy.
 
 ---
 
@@ -149,7 +149,7 @@ We send push notifications for trial-end reminders, subscription renewal confirm
 
 ## 13. Third-Party Links and Services
 
-The Service may contain links to third-party websites or integrate with third-party gig platforms. This Privacy Policy does not apply to those third parties. We encourage you to review the privacy policies of any third-party services you use in connection with GigNest.
+The Service may contain links to third-party websites or integrate with third-party gig platforms. This Privacy Policy does not apply to those third parties. We encourage you to review the privacy policies of any third-party services you use in connection with Freelance Wallet.
 
 ---
 
@@ -163,7 +163,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
-**GigNest Privacy Team**
+**Freelance Wallet Privacy Team**
 Email: **privacy@gignest.app**
 Mailing Address: *(to be completed before submission)*
 
